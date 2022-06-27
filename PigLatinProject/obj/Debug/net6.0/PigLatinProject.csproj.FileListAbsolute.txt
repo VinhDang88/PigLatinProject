@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\bin\Debug\net6.0\PigLatinProject.exe
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\bin\Debug\net6.0\PigLatinProject.deps.json
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\bin\Debug\net6.0\PigLatinProject.runtimeconfig.json
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\bin\Debug\net6.0\PigLatinProject.dll
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\bin\Debug\net6.0\PigLatinProject.pdb
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.dll
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\refint\PigLatinProject.dll
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.pdb
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\PigLatinProject.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\PigLatinProject\PigLatinProject\obj\Debug\net6.0\ref\PigLatinProject.dll
