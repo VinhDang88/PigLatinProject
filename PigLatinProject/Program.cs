@@ -10,6 +10,11 @@ while (true)
     //Convert word to a lowercase before translating
     string input2 = input.ToLower();
 
+    if (input2 == "")
+    {
+        Console.WriteLine("Enter in text please");
+    }
+
     //If word starts with vowel, add "way" onto the ending a, e, i, o, u
     //consonant move then add "ay"
 
@@ -65,7 +70,7 @@ static string pigLatin(string s)
     }
     else if (index == -1)
     {
-        return s;
+        return s;    
     }
     else
     {
@@ -80,9 +85,9 @@ static string pigLatin(string s)
 
 
 /*  char first = input[0];
-    char[] letterBank = new char[] { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+    char[] c = new char[] { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
 
-    if (letterBank.Contains(first))
+    if (c.Contains(first))
     {
         Console.WriteLine(input2 + "way");
     }
